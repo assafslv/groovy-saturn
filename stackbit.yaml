@@ -303,9 +303,13 @@ models:
         label: Seo
       - name: ''
         type: date
+        label: ''
       - name: ''
         type: object
-        fields: []
+        fields:
+          - name: ''
+            type: string
+        label: ''
   blog_feed_section:
     type: object
     label: Blog Feed Section
