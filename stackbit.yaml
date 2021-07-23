@@ -302,7 +302,7 @@ models:
           - stackbit_page_meta
         label: Seo
       - name: ''
-        type: string
+        type: date
   blog_feed_section:
     type: object
     label: Blog Feed Section
