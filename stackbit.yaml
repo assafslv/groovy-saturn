@@ -308,7 +308,7 @@ models:
         type: object
         fields:
           - name: ''
-            type: string
+            type: slug
         label: ''
   blog_feed_section:
     type: object
