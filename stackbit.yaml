@@ -311,7 +311,7 @@ models:
             type: slug
         label: ''
       - name: ''
-        type: string
+        type: slug
   blog_feed_section:
     type: object
     label: Blog Feed Section
