@@ -310,8 +310,9 @@ models:
           - name: ''
             type: slug
         label: ''
-      - name: ''
+      - name: slug
         type: slug
+        required: true
   blog_feed_section:
     type: object
     label: Blog Feed Section
