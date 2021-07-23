@@ -303,6 +303,8 @@ models:
         label: Seo
       - name: ''
         type: date
+      - name: ''
+        type: string
   blog_feed_section:
     type: object
     label: Blog Feed Section
