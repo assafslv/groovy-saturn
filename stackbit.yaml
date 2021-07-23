@@ -312,9 +312,6 @@ models:
         label: ''
       - name: slug
         type: slug
-        required: true
-        hidden: true
-        readOnly: true
   blog_feed_section:
     type: object
     label: Blog Feed Section
