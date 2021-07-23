@@ -304,7 +304,8 @@ models:
       - name: ''
         type: date
       - name: ''
-        type: string
+        type: object
+        fields: []
   blog_feed_section:
     type: object
     label: Blog Feed Section
